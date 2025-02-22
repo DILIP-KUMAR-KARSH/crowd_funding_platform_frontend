@@ -16,6 +16,7 @@ import DonationSuccess from "./Routes/donationSuccess";
 import DonationFailure from "./Routes/donationFailure";
 import Footer from "./Components/footer";
 import "./App.css";
+import Chat from "./Components/chat";
 import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
